@@ -1,7 +1,5 @@
 ## 🔴⚪️ Mia San Mia!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimalayanRainstorm&layout=compact&hide=jupyter%20notebook)
-
 <!--
 **HimalayanRainstorm/HimalayanRainstorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
